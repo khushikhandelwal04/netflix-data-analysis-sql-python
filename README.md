@@ -1,50 +1,51 @@
-🎬 Netflix Data Analysis Using Python & SQL
+# 🎬 Netflix Data Analysis Using Python & SQL
 
-📌 Project Overview
+## 📌 Project Overview
+
 This project analyzes the Netflix dataset using Python and SQL Server.
 
 The project includes:
-data cleaning
-normalization
-exploratory data analysis (EDA)
-visualization
-SQL querying
-insights generation
+- data cleaning
+- normalization
+- exploratory data analysis (EDA)
+- visualization
+- SQL querying
+- insights generation
 
-🛠 Tools Used
-Python
-Pandas
-Matplotlib
-SQL Server
-SQLAlchemy
-Jupyter Notebook
+## 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- SQL Server
+- SQLAlchemy
+- Jupyter Notebook
 
-🔄 Workflow
+## 🔄 Workflow
 Excel Dataset
-→ Python Import
-→ SQL Server Connection
-→ Data Cleaning
-→ SQL Analysis
-→ EDA
-→ Visualization
-→ Insights
+- Python Import
+- SQL Server Connection
+- Data Cleaning
+- SQL Analysis
+- EDA
+- Visualization
+- Insights
 
-📂 Project Structure
-dataset/
-notebook/
-sql_queries/
-visuals/
-README.md
+## 📂 Project Structure
+- dataset/
+- notebook/
+- sql_queries/
+- visuals/
+- README.md
 
-🔍 Key SQL Operations
-Duplicate removal
-Missing value handling
-Data normalization
-Window functions
-Aggregations
-Genre and country analysis
+## 🔍 Key SQL Operations
+- Duplicate removal
+- Missing value handling
+- Data normalization
+- Window functions
+- Aggregations
+- Genre and country analysis
 
-📊 Visualizations
+## 📊 Visualizations
 
 Movies vs TV Shows
 ![Uploading Screenshot 2026-05-26 233203.png…]()
@@ -57,17 +58,17 @@ Content Added Over Years
 ![Uploading image.png…]()
 
 
-💡 Key Insights
-Movies dominate Netflix catalog
-Netflix content increased rapidly after 2015
-Multi-valued columns required normalization
+## 💡 Key Insights
+- Movies dominate Netflix catalog
+- Netflix content increased rapidly after 2015
+- Multi-valued columns required normalization
 
-⚠️ Challenges Faced
-Special character handling
-SQL vs Python output mismatch
-Duration format inconsistencies
+## ⚠️ Challenges Faced
+- Special character handling
+- SQL vs Python output mismatch
+- Duration format inconsistencies
 
-🚀 Future Improvements
-Power BI dashboard
-Advanced visualizations
-Recommendation system
+## 🚀 Future Improvements
+- Power BI dashboard
+- Advanced visualizations
+- Recommendation system
