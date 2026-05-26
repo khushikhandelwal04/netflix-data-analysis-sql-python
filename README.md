@@ -34,7 +34,6 @@ Excel Dataset
 - dataset/
 - notebook/
 - sql_queries/
-- visuals/
 - README.md
 
 ## 🔍 Key SQL Operations
