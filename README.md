@@ -1,7 +1,6 @@
 🎬 Netflix Data Analysis Using Python & SQL
 
 📌 Project Overview
-
 This project analyzes the Netflix dataset using Python and SQL Server.
 
 The project includes:
